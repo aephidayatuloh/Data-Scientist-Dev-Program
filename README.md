@@ -1,2 +1,2 @@
-# Data-Science-Dev-Pro
-Data Science Development Program
+# Data-Scientist-Dev-Program
+Data Scientist Development Program
